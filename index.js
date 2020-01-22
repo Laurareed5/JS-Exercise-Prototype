@@ -106,10 +106,10 @@ Person.prototype.play = function (play) {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Global Object binding
+  2. Implicit Binding
+  3. New Binidng
+  4. Explicit Binding
 */
 
 
